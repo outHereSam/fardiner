@@ -38,7 +38,7 @@ header {
 
 #hero h1 {
     font-family: 'Archivo Black', sans-serif;
-    font-size: 28px;
+    font-size: 24px;
     text-align: center;
     line-height: 1.2em;
     margin: 0 0 20px 0;
@@ -276,7 +276,7 @@ video {
 }
 
 #lookbook img {
-    height: 562px;
+    height: 350px;
 }
 
 #about {
