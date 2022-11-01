@@ -1,0 +1,1 @@
+const lookbook = document.querySelector('.look-book');
